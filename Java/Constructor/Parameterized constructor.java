@@ -1,11 +1,11 @@
-/* class constructor {
-    constructor(String name) {
+class paramConstructor {
+    paramConstructor(String name) {
         System.out.println("Your name is: " + name);
     }
 }
 
-class run_constructor {
+class run_paramConstructor {
     public static void main(String[] args) {
-        constructor student = new constructor("Abdullah Al Naiem");
+        paramConstructor student = new paramConstructor("Abdullah Al Naiem");
     }
-} */
+}

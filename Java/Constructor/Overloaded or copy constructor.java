@@ -1,17 +1,17 @@
-class constructor {
-    constructor(String department) {
+class copyConstructor {
+    copyConstructor(String department) {
         System.out.println("Dept of. " + department);
     }
 
-    constructor(String name, int id) {
-        System.out.println("Sudent Name: " + name);
+    copyConstructor(String name, int id) {
+        System.out.println("Student Name: " + name);
         System.out.println("ID: " + id);
     }
 }
 
-class run_constructor {
+class run_copyConstructor {
     public static void main(String[] args) {
-        constructor department = new constructor("Computer Engineering");
-        constructor student = new constructor("Abdullah Al Naiem", 123456);
+        copyConstructor department = new copyConstructor("Computer Engineering");
+        copyConstructor student = new copyConstructor("Abdullah Al Naiem", 123456);
     }
 }
