@@ -98,9 +98,9 @@
         <tr>
             <td align="center" valign="middle">11</td>
             <td valign="middle">Example of ForEach Loop (enhanced)</td>
-            <td align="center" valign="middle"><a href="/C++/Loop/Example of For Loop.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
-            <td align="center" valign="middle"><a href="/Python/Loop/Example of For Loop.py"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731664-c358d5f0-1ffc-40c3-8b2e-a8f6093f79ab.png"/></a></td>
-            <td align="center" valign="middle"><a href="/Java/Loop/Example of For Loop.java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
+            <td align="center" valign="middle"><a href="/C++/Loop/Example of ForEach Loop (enhanced).cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
+            <td align="center" valign="middle"><img height="10px" src="https://user-images.githubusercontent.com/34242279/157758952-c15c1923-7102-43f5-926b-89aa2f52a96e.svg"></td>
+            <td align="center" valign="middle"><a href="/Java/Loop/Example of ForEach Loop (enhanced).java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
         </tr>
         <tr>
             <td colspan="5" align="center" valign="middle"><b><sub><sup>▼ Usages of Arithmetic operator ▼</sup></sub></b></td>
